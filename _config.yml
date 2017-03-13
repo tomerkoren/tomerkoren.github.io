@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      ruge
+gems:             [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Tomer Koren'
+tagline:          'Homepage'
+description:      ''
+url:              http://tomerkoren.github.io
+baseurl:          /
+
+author:
+  name:           'Tomer Koren'
+  url:            http://tomerkoren.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+##github:
+##  repo:           https://github.com/poole/hyde
