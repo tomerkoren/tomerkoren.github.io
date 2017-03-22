@@ -5,7 +5,7 @@ title: Home
 
 ## About
 
-I am a Research Scientist in Google, Mountain View. 
+I am a Research Scientist at Google, Mountain View. 
 I received my PhD in December 2016 from the Technion---Israel Institute of Technology, where my advisor was Prof. Elad Hazan.
 
 My research interests are in machine learning and optimization.
@@ -130,7 +130,7 @@ Tomer Koren.
 
 **Bandit Convex Optimization: sqrt{T} Regret in One Dimension.**
 <br/>
-[Sébastien Bubeck](http://www.princeton.edu/~sbubeck/),
+[Sébastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/),
 [Ofer Dekel](http://research.microsoft.com/en-us/um/people/oferd/),
 Tomer Koren,
 [Yuval Peres](http://research.microsoft.com/en-us/um/people/peres/).
@@ -154,7 +154,7 @@ Tomer Koren.
 
 **Oracle-Based Robust Optimization via Online Learning.**
 <br/>
-[Aharon Ben-Tal](http://iew3.technion.ac.il/Home/Users/morbt.phtml),
+[Aharon Ben-Tal](https://web.iem.technion.ac.il/en/people/userprofile/abental.html),
 [Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
 Tomer Koren,
 [Shie Mannor](http://webee.technion.ac.il/people/shie/).
@@ -227,9 +227,9 @@ Tomer Koren,
 **Distributed Exploration in Multi-Armed Bandits.**
 <br/>
 [Eshcar Hillel](http://labs.yahoo.com/author/eshcar/),
-[Zohar Karnin](http://labs.yahoo.com/author/zkarnin/),
+[Zohar Karnin](http://scholar.google.com/citations?user=aUsrzjgAAAAJ),
 Tomer Koren,
-[Ronny Lempel](http://labs.yahoo.com/author/rlempel/),
+[Ronny Lempel](http://www.linkedin.com/in/ronny-lempel-83a5675/),
 [Oren Somekh](http://labs.yahoo.com/author/orens/).
 <br/>
 [NIPS 2013](http://nips.cc/Conferences/2013/)
@@ -240,7 +240,7 @@ Tomer Koren,
 
 **Almost Optimal Exploration in Multi-Armed Bandits.**
 <br/>
-[Zohar Karnin](http://labs.yahoo.com/author/zkarnin/),
+[Zohar Karnin](http://scholar.google.com/citations?user=aUsrzjgAAAAJ),
 Tomer Koren,
 [Oren Somekh](http://labs.yahoo.com/author/orens/).
 <br/>
@@ -263,7 +263,7 @@ Tomer Koren.
 **Supervised System Identification Based on Local PCA Models.**
 <br/>
 Tomer Koren,
-[Ronen Talmon](http://users.math.yale.edu/rt294/),
+[Ronen Talmon](http://ronen.eew.technion.ac.il),
 [Israel Cohen](http://webee.technion.ac.il/people/IsraelCohen/).
 <br/>
 [ICASSP 2012](http://www.icassp2012.com)
