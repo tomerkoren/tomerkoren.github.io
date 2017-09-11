@@ -13,6 +13,34 @@ My research interests are in machine learning and optimization.
 <br/>
 ## Publications
 
+**A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization.**
+<br/>
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Manuscript
+<br/>
+[[arXiv](http://arxiv.org/abs/1706.06569)]
+
+**Multi-Armed Bandits with Metric Movement Costs.**
+<br/>
+Tomer Koren,
+[Roi Livni](http://www.cs.princeton.edu/~rlivni/),
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[NIPS 2017](http://nips.cc/Conferences/2017/) (to appear)
+<!-- <br/> -->
+<!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
+
+**Affine-Invariant Online Optimization.**
+<br/>
+Tomer Koren,
+[Roi Livni](http://www.cs.princeton.edu/~rlivni/).
+<br/>
+[NIPS 2017](http://nips.cc/Conferences/2017/) (to appear)
+<!-- <br/> -->
+<!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
 
 **Bandits with Movement Costs and Adaptive Pricing.**
 <br/>
@@ -20,7 +48,7 @@ Tomer Koren,
 [Roi Livni](http://www.cs.princeton.edu/~rlivni/),
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-Manuscript 
+[COLT 2017](http://www.learningtheory.org/colt2017/)
 <br/>
 [[arXiv](http://arxiv.org/abs/1702.07444)]
 
@@ -31,7 +59,7 @@ Manuscript
 [Tamir Hazan](http://ie.technion.ac.il/~tamir.hazan/),
 Tomer Koren.
 <br/>
-Manuscript 
+[COLT 2017](http://www.learningtheory.org/colt2017/) 
 <br/>
 [[arXiv](http://arxiv.org/abs/1702.07539)]
 
