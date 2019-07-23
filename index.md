@@ -1,51 +1,119 @@
 ---
 layout: default
 title: Home
+mathjax: true
 ---
 
 ## About
 
-I am a Research Scientist at Google, Mountain View. 
-I received my PhD in December 2016 from the Technion---Israel Institute of Technology, where my advisor was Prof. Elad Hazan.
+I'm currently a Research Scientist at [Google Brain, Mountain View](http://ai.google/research/teams/brain/), and will be joining the [School of Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv University](http://www.tau.ac.il/) as a faculty member in Fall 2019.
+I received my PhD in December 2016 from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
 
 <br/>
 ## Publications
 
-**A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization.**
+**Memory-Efficient Adaptive Optimization.**
+<br/>
+[Rohan Anil](https://ai.google/research/people/105802),
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/1901.11150)]
+
+**Robust Bi-Tempered Logistic Loss Based on Bregman Divergences.**
+<br/>
+[Ehsan Amid](http://users.soe.ucsc.edu/~eamid/),
+[Manfred K. Warmuth](http://users.soe.ucsc.edu/~manfred/),
+[Rohan Anil](https://ai.google/research/people/105802),
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/1906.03361)]
+
+**Better Algorithms for Stochastic Bandits with Adversarial Corruptions.**
+<br/>
+[Anupam Gupta](http://www.cs.cmu.edu/~anupamg/)
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[COLT 2019](http://learningtheory.org/colt2019/)
+<br/>
+[[arXiv](http://arxiv.org/abs/1902.08647)]
+
+**Learning Linear-Quadratic Regulators Efficiently with only $\sqrt{T}$ Regret.**
+<br/>
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2019](http://icml.cc/2019/)
+<br/>
+[[arXiv](http://arxiv.org/abs/1902.06223)]
+
+**Semi-Cyclic Stochastic Gradient Descent.**
+<br/>
+Hubert Eichner,
+Tomer Koren,
+[Brendan McMahan](https://ai.google/research/people/author35837),
+[Nathan Srebro](http://ttic.uchicago.edu/~nati/),
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[ICML 2019](http://icml.cc/2019/)
+<br/>
+[[arXiv](http://arxiv.org/abs/1904.10120)]
+
+**Online Linear-Quadratic Control.**
+<br/>
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
+[Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/),
+Tomer Koren,
+[Nevena Lazic](https://ai.google/research/people/104936),
+[Yishay Mansour](http://www.tau.ac.il/~mansour/),
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[ICML 2018](http://icml.cc/2018/)
+<br/>
+[[arXiv](http://arxiv.org/abs/1806.07104)]
+
+**Shampoo: Preconditioned Stochastic Tensor Optimization.**
 <br/>
 [Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
 Tomer Koren,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
 <br/>
-Manuscript
+[ICML 2018](http://icml.cc/2018/)
 <br/>
-[[arXiv](http://arxiv.org/abs/1706.06569)]
+[[arXiv](http://arxiv.org/abs/1802.09568)]
 
 **Multi-Armed Bandits with Metric Movement Costs.**
 <br/>
 Tomer Koren,
-[Roi Livni](http://www.cs.princeton.edu/~rlivni/),
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[NIPS 2017](http://nips.cc/Conferences/2017/) (to appear)
+[NIPS 2017](http://nips.cc/Conferences/2017/)
 <!-- <br/> -->
 <!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
 
 **Affine-Invariant Online Optimization.**
 <br/>
 Tomer Koren,
-[Roi Livni](http://www.cs.princeton.edu/~rlivni/).
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
 <br/>
-[NIPS 2017](http://nips.cc/Conferences/2017/) (to appear)
+[NIPS 2017](http://nips.cc/Conferences/2017/)
 <!-- <br/> -->
 <!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
 
 **Bandits with Movement Costs and Adaptive Pricing.**
 <br/>
 Tomer Koren,
-[Roi Livni](http://www.cs.princeton.edu/~rlivni/),
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [COLT 2017](http://www.learningtheory.org/colt2017/)
@@ -55,7 +123,7 @@ Tomer Koren,
 
 **Tight Bounds for Bandit Combinatorial Optimization.**
 <br/>
-[Alon Cohen](http://tx.technion.ac.il/~alon.cohen/),
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
 [Tamir Hazan](http://ie.technion.ac.il/~tamir.hazan/),
 Tomer Koren.
 <br/>
@@ -80,7 +148,7 @@ Tomer Koren.
 <br/>
 [Michal Feldman](https://www.cs.tau.ac.il/~mfeldman/),
 Tomer Koren,
-[Roi Livni](http://www.cs.princeton.edu/~rlivni/),
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
 [Yishay Mansour](http://www.tau.ac.il/~mansour/),
 [Aviv Zohar](http://www.cs.huji.ac.il/~avivz/).
 <br/>
@@ -91,7 +159,7 @@ Tomer Koren,
 
 **Online Learning with Feedback Graphs Without the Graphs.**
 <br/>
-[Alon Cohen](http://tx.technion.ac.il/~alon.cohen/),
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
 [Tamir Hazan](http://ie.technion.ac.il/~tamir.hazan/),
 Tomer Koren.
 <br/>
@@ -104,7 +172,7 @@ Tomer Koren.
 <br/>
 [Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
 Tomer Koren,
-[Roi Livni](http://www.cs.princeton.edu/~rlivni/),
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [COLT 2016](http://www.learningtheory.org/colt2016/)
@@ -156,12 +224,12 @@ Tomer Koren.
 [[full](./public/papers/bco58.pdf)]
 
 
-**Bandit Convex Optimization: sqrt{T} Regret in One Dimension.**
+**Bandit Convex Optimization: $\sqrt{T}$ Regret in One Dimension.**
 <br/>
 [Sébastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/),
 [Ofer Dekel](http://research.microsoft.com/en-us/um/people/oferd/),
 Tomer Koren,
-[Yuval Peres](http://research.microsoft.com/en-us/um/people/peres/).
+[Yuval Peres](http://yuvalperes.com/).
 <br/>
 [COLT 2015](http://www.learningtheory.org/colt2015/)
 <br/>
@@ -233,19 +301,19 @@ Tomer Koren,
 [Ofer Dekel](http://research.microsoft.com/en-us/um/people/oferd/),
 [Jian Ding](http://www.stat.uchicago.edu/~jianding/),
 Tomer Koren,
-[Yuval Peres](http://research.microsoft.com/en-us/um/people/peres/).
+[Yuval Peres](http://yuvalperes.com/).
 <br/>
 [COLT 2014](http://orfe.princeton.edu/conferences/colt2014/)
 <br/>
 [[arXiv](http://arxiv.org/abs/1405.4471)]
 
 
-**Bandits with Switching Costs: <em>T</em><sup>2/3</sup> Regret.**
+**Bandits with Switching Costs: $T^{2/3}$ Regret.**
 <br/>
 [Ofer Dekel](http://research.microsoft.com/en-us/um/people/oferd/),
 [Jian Ding](http://www.stat.uchicago.edu/~jianding/),
 Tomer Koren,
-[Yuval Peres](http://research.microsoft.com/en-us/um/people/peres/).
+[Yuval Peres](http://yuvalperes.com/).
 <br/>
 [STOC 2014](http://www.columbia.edu/~cs2035/stoc/stoc2014/)
 <br/>
@@ -314,6 +382,15 @@ Tomer Koren,
 <br/>
 ## Other Publications
 
+**A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization.**
+<br/>
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Manuscript
+<br/>
+[[arXiv](http://arxiv.org/abs/1706.06569)]
 
 **Fast Stochastic Exp-Concave Optimization (Open Problem).**
 <br/>
