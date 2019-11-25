@@ -6,13 +6,42 @@ mathjax: true
 
 ## About
 
-I'm currently a Research Scientist at [Google Brain, Mountain View](http://ai.google/research/teams/brain/), and will be joining the [School of Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv University](http://www.tau.ac.il/) as a faculty member in Fall 2019.
+I'm an Assistant Professor (aka Senior Lecturer) in the [School of Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv University](http://www.tau.ac.il/) since Fall 2019.
+Previously, I was a Senior Research Scientist at [Google Brain, Mountain View](http://ai.google/research/teams/brain/).
 I received my PhD in December 2016 from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
 
 <br/>
 ## Publications
+
+**Full Matrix Preconditioning Made Practical.**
+<br/>
+[Rohan Anil](https://ai.google/research/people/105802),
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+Kevin Regan,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
+
+**Private Stochastic Convex Optimization: Optimal Rates in Linear Time.**
+<br/>
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+Preprint; preliminary version in [NeurIPS'19 Workshop on "Privacy in Machine Learning" (PriML'19)](https://priml-workshop.github.io/priml2019/)
+
+**Revisiting the Generalization of Adaptive Gradient Methods.**
+<br/>
+[Naman Agarwal](http://scholar.google.com/citations?user=sEMrGicAAAAJ),
+[Rohan Anil](https://ai.google/research/people/105802),
+[Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
+Tomer Koren,
+[Cyril Zhang](http://cyrilzhang.com/).
+<br/>
+Preprint; preliminary version in [OPT2019](https://opt-ml.org/)
 
 **Memory-Efficient Adaptive Optimization.**
 <br/>
@@ -21,7 +50,7 @@ My research interests are in machine learning and optimization.
 Tomer Koren,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
 <br/>
-Preprint
+[NeurIPS 2019](http://neurips.cc/Conferences/2019/), to appear
 <br/>
 [[arXiv](http://arxiv.org/abs/1901.11150)]
 
@@ -32,7 +61,7 @@ Preprint
 [Rohan Anil](https://ai.google/research/people/105802),
 Tomer Koren.
 <br/>
-Preprint
+[NeurIPS 2019](http://neurips.cc/Conferences/2019/), to appear
 <br/>
 [[arXiv](http://arxiv.org/abs/1906.03361)]
 
