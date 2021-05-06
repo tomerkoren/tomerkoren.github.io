@@ -65,7 +65,7 @@ Preprint
 <br/>
 [[arXiv](https://arxiv.org/abs/2103.01516)]
 
-**Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with sqrt{T} Regret.**
+**Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with $\sqrt{T}$ Regret.**
 <br/>
 Asaf Cassel,
 Tomer Koren.
@@ -100,6 +100,7 @@ Asaf Cassel,
 Tomer Koren.
 <br/>
 [NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+(*Spotlight*)
 <br/>
 [[arXiv](http://arxiv.org/abs/2007.00759)]
 
@@ -135,6 +136,7 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+(*Spotlight*)
 <br/>
 [[arXiv](http://arxiv.org/abs/2002.10286)]
 
