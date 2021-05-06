@@ -45,8 +45,8 @@ Preprint
 
 **Online Markov Decision Processes with Aggregate Bandit Feedback.**
 <br/>
-[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
-Haim Kaplan,
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
+[Haim Kaplan](http://www.cs.tau.ac.il/~haimk/),
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
@@ -549,13 +549,20 @@ Tomer Koren,
 <br/>
 ## Other Publications
 
+**Tight Convergence of SGD in Constant Dimension (Open Problem).**
+<br/>
+Tomer Koren,
+Shahar Segal
+<br/>
+[COLT 2020](http://www.learningtheory.org/colt2020/)
+<br/>
+[[pdf](http://proceedings.mlr.press/v125/koren20a/koren20a.pdf)]
+
 **A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization.**
 <br/>
 [Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
 Tomer Koren,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
-<br/>
-Manuscript
 <br/>
 [[arXiv](http://arxiv.org/abs/1706.06569)]
 
