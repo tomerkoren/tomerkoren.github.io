@@ -15,9 +15,142 @@ My research interests are in machine learning and optimization.
 <br/>
 ## Publications
 
-**Full Matrix Preconditioning Made Practical.**
+**SGD Generalizes Better Than GD (And Regularization Doesn't Help).**
 <br/>
-[Rohan Anil](https://ai.google/research/people/105802),
+Idan Amir,
+Tomer Koren,
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.01117)]
+
+**Lazy OCO: Online Convex Optimization on a Switching Budget.**
+<br/>
+Uri Sherman,
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.03803)]
+
+**The Instability of Accelerated Gradient Descent.**
+<br/>
+Amit Attia,
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.02167)]
+
+**Online Markov Decision Processes with Aggregate Bandit Feedback.**
+<br/>
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Haim Kaplan,
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.00490)]
+
+**Private Stochastic Convex Optimization: Optimal Rates in L1 Geometry.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+Preprint
+<br/>
+[[arXiv](https://arxiv.org/abs/2103.01516)]
+
+**Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with sqrt{T} Regret.**
+<br/>
+Asaf Cassel,
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12608)]
+
+**Adversarial Dueling Bandits.**
+<br/>
+[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2010.14563)]
+
+**Multiplicative Reweighting for Robust Neural Network Optimization.**
+<br/>
+Noga Bar,
+[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12192)]
+
+**Bandit Linear Control.**
+<br/>
+Asaf Cassel,
+Tomer Koren.
+<br/>
+[NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2007.00759)]
+
+**Stochastic Optimization for Laggard Data Pipelines.**
+<br/>
+[Naman Agarwal](https://naman33k.github.io),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/),
+[Cyril Zhang](http://cyrilzhang.com/).
+<br/>
+[NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2010.13639)]
+
+**Can Implicit Bias Explain Generalization? Stochastic Convex Optimization as a Case Study.**
+<br/>
+Assaf Dauber,
+[Meir Feder](https://www.eng.tau.ac.il/~meir/), 
+Tomer Koren,
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+[NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2003.06152)]
+
+**Prediction with Corrupted Expert Advice.**
+<br/>
+Idan Amir, 
+Idan Attias, 
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/),
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[NeurIPS 2020](http://neurips.cc/Conferences/2020/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.10286)]
+
+**Logarithmic Regret for Learning Linear Quadratic Regulators Efficiently.**
+<br/>
+Asaf Cassel,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren.
+<br/>
+[ICML 2020](https://icml.cc/Conferences/2020)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.08095)]
+
+**Scalable Second-Order Optimization for Deep Learning.**
+<br/>
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
 [Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
 Tomer Koren,
 Kevin Regan,
@@ -31,26 +164,31 @@ Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Met
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
 <br/>
-Preprint; preliminary version in [NeurIPS'19 Workshop on "Privacy in Machine Learning" (PriML'19)](https://priml-workshop.github.io/priml2019/)
-
-**Revisiting the Generalization of Adaptive Gradient Methods.**
+[STOC 2020](http://acm-stoc.org/stoc2020/); 
+preliminary version in [NeurIPS'19 Workshop on "Privacy in Machine Learning" (PriML'19)](https://priml-workshop.github.io/priml2019/)
 <br/>
-[Naman Agarwal](http://scholar.google.com/citations?user=sEMrGicAAAAJ),
-[Rohan Anil](https://ai.google/research/people/105802),
+[[arXiv](http://arxiv.org/abs/2005.04763)]
+
+**Disentangling Adaptive Gradient Methods from Learning Rates.**
+<br/>
+[Naman Agarwal](https://naman33k.github.io),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
 [Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
 Tomer Koren,
 [Cyril Zhang](http://cyrilzhang.com/).
 <br/>
 Preprint; preliminary version in [OPT2019](https://opt-ml.org/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.11803)]
 
 **Memory-Efficient Adaptive Optimization.**
 <br/>
-[Rohan Anil](https://ai.google/research/people/105802),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
 [Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
 Tomer Koren,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
 <br/>
-[NeurIPS 2019](http://neurips.cc/Conferences/2019/), to appear
+[NeurIPS 2019](http://neurips.cc/Conferences/2019/)
 <br/>
 [[arXiv](http://arxiv.org/abs/1901.11150)]
 
@@ -58,10 +196,10 @@ Tomer Koren,
 <br/>
 [Ehsan Amid](http://users.soe.ucsc.edu/~eamid/),
 [Manfred K. Warmuth](http://users.soe.ucsc.edu/~manfred/),
-[Rohan Anil](https://ai.google/research/people/105802),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
 Tomer Koren.
 <br/>
-[NeurIPS 2019](http://neurips.cc/Conferences/2019/), to appear
+[NeurIPS 2019](http://neurips.cc/Conferences/2019/)
 <br/>
 [[arXiv](http://arxiv.org/abs/1906.03361)]
 
