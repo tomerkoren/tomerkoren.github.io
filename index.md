@@ -54,36 +54,6 @@ Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.00490)]
 
-**Private Stochastic Convex Optimization: Optimal Rates in L1 Geometry.**
-<br/>
-[Hilal Asi](http://web.stanford.edu/~asi/),
-[Vitaly Feldman](http://vtaly.net/),
-Tomer Koren,
-[Kunal Talwar](http://kunaltalwar.org/).
-<br/>
-Preprint
-<br/>
-[[arXiv](https://arxiv.org/abs/2103.01516)]
-
-**Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with $\sqrt{T}$ Regret.**
-<br/>
-Asaf Cassel,
-Tomer Koren.
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.12608)]
-
-**Adversarial Dueling Bandits.**
-<br/>
-[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
-Tomer Koren,
-[Yishay Mansour](http://www.tau.ac.il/~mansour/).
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2010.14563)]
-
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
 <br/>
 Noga Bar,
@@ -93,6 +63,53 @@ Tomer Koren.
 Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
+
+**Private Stochastic Convex Optimization: Optimal Rates in L1 Geometry.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[ICML 2021](http://icml.cc/Conferences/2021), to appear
+<br/>
+[[arXiv](https://arxiv.org/abs/2103.01516)]
+
+**Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with $\sqrt{T}$ Regret.**
+<br/>
+Asaf Cassel,
+Tomer Koren.
+<br/>
+[ICML 2021](http://icml.cc/Conferences/2021), to appear
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12608)]
+
+**Adversarial Dueling Bandits.**
+<br/>
+[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2021](http://icml.cc/Conferences/2021), to appear
+<br/>
+[[arXiv](http://arxiv.org/abs/2010.14563)]
+
+**Dueling Convex Optimization.**
+<br/>
+[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2021](http://icml.cc/Conferences/2021), to appear
+
+**Stochastic Multi-Armed Bandits with Unrestricted Delay Distributions.**
+<br/>
+Tal Lancewicki, 
+Shahar Segal, 
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2021](http://icml.cc/Conferences/2021), to appear
 
 **Bandit Linear Control.**
 <br/>
