@@ -167,16 +167,6 @@ Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2002.08095)]
 
-**Scalable Second-Order Optimization for Deep Learning.**
-<br/>
-[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
-[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
-Tomer Koren,
-Kevin Regan,
-[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
-<br/>
-Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
-
 **Private Stochastic Convex Optimization: Optimal Rates in Linear Time.**
 <br/>
 [Vitaly Feldman](http://vtaly.net/),
@@ -187,6 +177,16 @@ Tomer Koren,
 preliminary version in [NeurIPS'19 Workshop on "Privacy in Machine Learning" (PriML'19)](https://priml-workshop.github.io/priml2019/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2005.04763)]
+
+**Scalable Second-Order Optimization for Deep Learning.**
+<br/>
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+Kevin Regan,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
 
 **Disentangling Adaptive Gradient Methods from Learning Rates.**
 <br/>
