@@ -40,7 +40,7 @@ Idan Amir,
 Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
-COLT 2021, to appear
+[COLT 2021](http://learningtheory.org/colt2021/), to appear
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.01117)]
 
@@ -49,7 +49,7 @@ COLT 2021, to appear
 Uri Sherman,
 Tomer Koren.
 <br/>
-COLT 2021, to appear
+[COLT 2021](http://learningtheory.org/colt2021/), to appear
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.03803)]
 
@@ -60,7 +60,7 @@ COLT 2021, to appear
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-COLT 2021, to appear
+[COLT 2021](http://learningtheory.org/colt2021/), to appear
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.00490)]
 
