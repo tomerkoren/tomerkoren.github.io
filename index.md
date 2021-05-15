@@ -40,7 +40,7 @@ Idan Amir,
 Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
-[COLT 2021](http://learningtheory.org/colt2021/), to appear
+[COLT 2021](http://learningtheory.org/colt2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.01117)]
 
@@ -49,7 +49,7 @@ Tomer Koren,
 Uri Sherman,
 Tomer Koren.
 <br/>
-[COLT 2021](http://learningtheory.org/colt2021/), to appear
+[COLT 2021](http://learningtheory.org/colt2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.03803)]
 
@@ -60,7 +60,7 @@ Tomer Koren.
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[COLT 2021](http://learningtheory.org/colt2021/), to appear
+[COLT 2021](http://learningtheory.org/colt2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.00490)]
 
@@ -71,7 +71,7 @@ Tomer Koren,
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
 <br/>
-[ICML 2021](http://icml.cc/Conferences/2021), to appear
+[ICML 2021](http://icml.cc/Conferences/2021)
 <br/>
 [[arXiv](https://arxiv.org/abs/2103.01516)]
 
@@ -80,7 +80,7 @@ Tomer Koren,
 Asaf Cassel,
 Tomer Koren.
 <br/>
-[ICML 2021](http://icml.cc/Conferences/2021), to appear
+[ICML 2021](http://icml.cc/Conferences/2021)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12608)]
 
@@ -90,7 +90,7 @@ Tomer Koren.
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[ICML 2021](http://icml.cc/Conferences/2021), to appear
+[ICML 2021](http://icml.cc/Conferences/2021)
 <br/>
 [[arXiv](http://arxiv.org/abs/2010.14563)]
 
@@ -100,7 +100,7 @@ Tomer Koren,
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[ICML 2021](http://icml.cc/Conferences/2021), to appear
+[ICML 2021](http://icml.cc/Conferences/2021)
 
 **Stochastic Multi-Armed Bandits with Unrestricted Delay Distributions.**
 <br/>
@@ -109,7 +109,7 @@ Shahar Segal,
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[ICML 2021](http://icml.cc/Conferences/2021), to appear
+[ICML 2021](http://icml.cc/Conferences/2021)
 
 **Bandit Linear Control.**
 <br/>
