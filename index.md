@@ -15,25 +15,6 @@ My research interests are in machine learning and optimization.
 <br/>
 ## Publications
 
-**SGD Generalizes Better Than GD (And Regularization Doesn't Help).**
-<br/>
-Idan Amir,
-Tomer Koren,
-[Roi Livni](http://www.tau.ac.il/~rlivni/).
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.01117)]
-
-**Lazy OCO: Online Convex Optimization on a Switching Budget.**
-<br/>
-Uri Sherman,
-Tomer Koren.
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.03803)]
-
 **The Instability of Accelerated Gradient Descent.**
 <br/>
 Amit Attia,
@@ -42,17 +23,6 @@ Tomer Koren.
 Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.02167)]
-
-**Online Markov Decision Processes with Aggregate Bandit Feedback.**
-<br/>
-[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
-[Haim Kaplan](http://www.cs.tau.ac.il/~haimk/),
-Tomer Koren,
-[Yishay Mansour](http://www.tau.ac.il/~mansour/).
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.00490)]
 
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
 <br/>
@@ -63,6 +33,36 @@ Tomer Koren.
 Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
+
+**SGD Generalizes Better Than GD (And Regularization Doesn't Help).**
+<br/>
+Idan Amir,
+Tomer Koren,
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+COLT 2021, to appear
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.01117)]
+
+**Lazy OCO: Online Convex Optimization on a Switching Budget.**
+<br/>
+Uri Sherman,
+Tomer Koren.
+<br/>
+COLT 2021, to appear
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.03803)]
+
+**Online Markov Decision Processes with Aggregate Bandit Feedback.**
+<br/>
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
+[Haim Kaplan](http://www.cs.tau.ac.il/~haimk/),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+COLT 2021, to appear
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.00490)]
 
 **Private Stochastic Convex Optimization: Optimal Rates in L1 Geometry.**
 <br/>
