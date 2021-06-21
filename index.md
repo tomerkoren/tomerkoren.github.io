@@ -6,16 +6,48 @@ mathjax: true
 
 ## About
 
-I'm an Assistant Professor (aka Senior Lecturer) in the [School of Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv University](http://www.tau.ac.il/) since Fall 2019.
-Previously, I was a Senior Research Scientist at [Google Brain, Mountain View](http://ai.google/research/teams/brain/).
-I received my PhD in December 2016 from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
+I'm an Assistant Professor (aka Senior Lecturer) in the [Blavatnik School of
+Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv
+University](http://www.tau.ac.il/) since Fall 2019. Previously, I was a Senior
+Research Scientist at [Google Brain, Mountain
+View](http://ai.google/research/teams/brain/). I received my PhD in December
+2016 from the [Technion---Israel Institute of
+Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad
+Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
 
 <br/>
 ## Publications
 
-**The Instability of Accelerated Gradient Descent.**
+**Optimal Rates for Random Order Online Optimization.**
+<br/>
+Uri Sherman,
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+Preprint
+
+**Never Go Full Batch (in Stochastic Convex Optimization).**
+<br/>
+Idan Amir, 
+[Yair Carmon](http://www.cs.tau.ac.il/~ycarmon/), 
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+Preprint
+
+**Asynchronous Stochastic Optimization Robust to Arbitrary Delays.**
+<br/>
+[Alon Cohen](http://sites.google.com/site/aloncohentechnion/),
+[Amit Daniely](http://www.cs.huji.ac.il/~amitd/),
+[Yoel Drori](http://scholar.google.com/citations?user=7pRQY3MAAAAJ), 
+Tomer Koren, 
+[Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
+<br/>
+Preprint
+
+**Algorithmic Instabilities of Accelerated Gradient Descent.**
 <br/>
 Amit Attia,
 Tomer Koren.
@@ -110,6 +142,8 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [ICML 2021](http://icml.cc/Conferences/2021)
+<br/>
+[[arXiv](http://arxiv.org/abs/2106.02436)]
 
 **Bandit Linear Control.**
 <br/>
@@ -566,7 +600,7 @@ Tomer Koren,
 
 
 <br/>
-## Other Publications
+## Technical Reports and Open Problems
 
 **Tight Convergence of SGD in Constant Dimension (Open Problem).**
 <br/>
