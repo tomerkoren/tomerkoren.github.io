@@ -46,6 +46,8 @@ Tomer Koren,
 [Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
 <br/>
 Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2106.11879)]
 
 **Algorithmic Instabilities of Accelerated Gradient Descent.**
 <br/>
@@ -602,7 +604,7 @@ Tomer Koren,
 <br/>
 ## Technical Reports and Open Problems
 
-**Tight Convergence of SGD in Constant Dimension (Open Problem).**
+**Open Problem: Tight Convergence of SGD in Constant Dimension.**
 <br/>
 Tomer Koren,
 Shahar Segal
@@ -619,7 +621,7 @@ Tomer Koren,
 <br/>
 [[arXiv](http://arxiv.org/abs/1706.06569)]
 
-**Fast Stochastic Exp-Concave Optimization (Open Problem).**
+**Open Problem: Fast Stochastic Exp-Concave Optimization.**
 <br/>
 Tomer Koren
 <br/>
