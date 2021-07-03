@@ -16,7 +16,10 @@ Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad
 Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
+
+
 <br/>
+
 
 ## Publications
 
