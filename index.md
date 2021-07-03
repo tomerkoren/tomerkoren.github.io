@@ -16,8 +16,8 @@ Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad
 Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
-
 <br/>
+
 ## Publications
 
 **Optimal Rates for Random Order Online Optimization.**
@@ -27,6 +27,8 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2106.15207)]
 
 **Never Go Full Batch (in Stochastic Convex Optimization).**
 <br/>
@@ -36,6 +38,8 @@ Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
 Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2107.00469)]
 
 **Asynchronous Stochastic Optimization Robust to Arbitrary Delays.**
 <br/>
@@ -223,6 +227,8 @@ Kevin Regan,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
 <br/>
 Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.09018)]
 
 **Disentangling Adaptive Gradient Methods from Learning Rates.**
 <br/>
@@ -320,17 +326,17 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [NIPS 2017](http://nips.cc/Conferences/2017/)
-<!-- <br/> -->
-<!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
+<br/>
+[[arXiv](https://arxiv.org/abs/1710.08997)]
 
-**Affine-Invariant Online Optimization.**
+**Affine-Invariant Online Optimization and the Low-rank Experts Problem.**
 <br/>
 Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/),
 <br/>
 [NIPS 2017](http://nips.cc/Conferences/2017/)
-<!-- <br/> -->
-<!-- [[arXiv](http://arxiv.org/abs/1702.07444)] -->
+<br/>
+[[pdf](http://proceedings.neurips.cc/paper/2017/file/347665597cbfaef834886adbb848011f-Paper.pdf)]
 
 **Bandits with Movement Costs and Adaptive Pricing.**
 <br/>
@@ -443,7 +449,7 @@ Tomer Koren.
 (*Spotlight*)
 <br/>
 [[pdf](http://papers.nips.cc/paper/5842-bandit-smooth-convex-optimization-improving-the-bias-variance-tradeoff.pdf)]
-[[full](./public/papers/bco58.pdf)]
+<!-- [[full](./public/papers/bco58.pdf)] -->
 
 
 **Bandit Convex Optimization: $\sqrt{T}$ Regret in One Dimension.**
@@ -602,6 +608,7 @@ Tomer Koren,
 
 
 <br/>
+
 ## Technical Reports and Open Problems
 
 **Open Problem: Tight Convergence of SGD in Constant Dimension.**
@@ -618,6 +625,8 @@ Shahar Segal
 [Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
 Tomer Koren,
 [Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Manuscript, 2017
 <br/>
 [[arXiv](http://arxiv.org/abs/1706.06569)]
 
