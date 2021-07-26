@@ -23,6 +23,15 @@ My research interests are in machine learning and optimization.
 
 ## Publications
 
+**Best-of-All-Worlds Bounds for Online Learning with Feedback Graphs.**
+<br/>
+Liad Erez,
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2107.09572)]
+
 **Optimal Rates for Random Order Online Optimization.**
 <br/>
 Uri Sherman,
