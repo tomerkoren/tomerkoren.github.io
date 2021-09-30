@@ -23,6 +23,28 @@ My research interests are in machine learning and optimization.
 
 ## Publications
 
+**Multiplicative Reweighting for Robust Neural Network Optimization.**
+<br/>
+Noga Bar,
+[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12192)]
+
+**Disentangling Adaptive Gradient Methods from Learning Rates.**
+<br/>
+[Naman Agarwal](https://naman33k.github.io),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
+[Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
+Tomer Koren,
+[Cyril Zhang](http://cyrilzhang.com/).
+<br/>
+Preprint; preliminary version in [OPT2019](https://opt-ml.org/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.11803)]
+
 **Best-of-All-Worlds Bounds for Online Learning with Feedback Graphs.**
 <br/>
 Liad Erez,
@@ -74,16 +96,6 @@ Tomer Koren.
 [NeurIPS 2021](http://neurips.cc/Conferences/2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.02167)]
-
-**Multiplicative Reweighting for Robust Neural Network Optimization.**
-<br/>
-Noga Bar,
-[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
-Tomer Koren.
-<br/>
-Preprint
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.12192)]
 
 **SGD Generalizes Better Than GD (And Regularization Doesn't Help).**
 <br/>
@@ -230,30 +242,6 @@ Tomer Koren,
 preliminary version in [NeurIPS'19 Workshop on "Privacy in Machine Learning" (PriML'19)](https://priml-workshop.github.io/priml2019/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2005.04763)]
-
-**Scalable Second-Order Optimization for Deep Learning.**
-<br/>
-[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
-[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
-Tomer Koren,
-Kevin Regan,
-[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
-<br/>
-Preprint; preliminary version in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
-<br/>
-[[arXiv](http://arxiv.org/abs/2002.09018)]
-
-**Disentangling Adaptive Gradient Methods from Learning Rates.**
-<br/>
-[Naman Agarwal](https://naman33k.github.io),
-[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
-[Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
-Tomer Koren,
-[Cyril Zhang](http://cyrilzhang.com/).
-<br/>
-Preprint; preliminary version in [OPT2019](https://opt-ml.org/)
-<br/>
-[[arXiv](http://arxiv.org/abs/2002.11803)]
 
 **Memory-Efficient Adaptive Optimization.**
 <br/>
@@ -632,6 +620,18 @@ Shahar Segal
 [COLT 2020](http://www.learningtheory.org/colt2020/)
 <br/>
 [[pdf](http://proceedings.mlr.press/v125/koren20a/koren20a.pdf)]
+
+**Scalable Second-Order Optimization for Deep Learning.**
+<br/>
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
+[Vineet Gupta](http://www-cs-students.stanford.edu/~vgupta/),
+Tomer Koren,
+Kevin Regan,
+[Yoram Singer](http://www.cs.princeton.edu/~ysinger/).
+<br/>
+Manuscript; appeared in [NeurIPS'19 Workshop on "Beyond First Order Methods in ML"](http://sites.google.com/site/optneurips19/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.09018)]
 
 **A Unified Approach to Adaptive Regularization in Online and Stochastic Optimization.**
 <br/>
