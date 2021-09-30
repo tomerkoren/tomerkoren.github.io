@@ -28,7 +28,7 @@ My research interests are in machine learning and optimization.
 Liad Erez,
 Tomer Koren.
 <br/>
-Preprint
+[NeurIPS 2021](http://neurips.cc/Conferences/2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2107.09572)]
 
@@ -38,7 +38,8 @@ Uri Sherman,
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-Preprint
+[NeurIPS 2021](http://neurips.cc/Conferences/2021/)
+(*Oral*)
 <br/>
 [[arXiv](http://arxiv.org/abs/2106.15207)]
 
@@ -49,7 +50,7 @@ Idan Amir,
 Tomer Koren, 
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
-Preprint
+[NeurIPS 2021](http://neurips.cc/Conferences/2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2107.00469)]
 
@@ -61,7 +62,7 @@ Preprint
 Tomer Koren, 
 [Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
 <br/>
-Preprint
+[NeurIPS 2021](http://neurips.cc/Conferences/2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2106.11879)]
 
@@ -70,7 +71,7 @@ Preprint
 Amit Attia,
 Tomer Koren.
 <br/>
-Preprint
+[NeurIPS 2021](http://neurips.cc/Conferences/2021/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.02167)]
 
