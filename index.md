@@ -10,10 +10,9 @@ I'm an Assistant Professor (aka Senior Lecturer) in the [Blavatnik School of
 Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv
 University](http://www.tau.ac.il/) since Fall 2019. Previously, I was a Senior
 Research Scientist at [Google Brain, Mountain
-View](http://ai.google/research/teams/brain/). I received my PhD in early
-2017 from the [Technion---Israel Institute of
-Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad
-Hazan](http://www.cs.princeton.edu/~ehazan/).
+View](http://ai.google/research/teams/brain/). I received my PhD in 2017 
+from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/),
+ where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
 
