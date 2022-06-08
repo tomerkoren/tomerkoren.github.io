@@ -20,7 +20,48 @@ My research interests are in machine learning and optimization.
 <br/>
 
 
-## Publications
+## Preprints
+
+**Benign Underfitting of Stochastic Gradient Descent.**
+<br/>
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/), 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
+Uri Sherman.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2202.13361)]
+
+**Efficient Online Linear Control with Stochastic Convex Costs and Unknown Dynamics.**
+<br/>
+Asaf Cassel,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren.
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2206.01426)]
+
+**Private Online Prediction from Experts: Separations and Faster Rates.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+Preprint
+
+**Better Best of Both Worlds Bounds for Bandits with Switching Costs.**
+<br/>
+Idan Amir, 
+Guy Azov
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+Preprint
+<br/>
+[[arXiv](http://arxiv.org/abs/2206.03098)]
 
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
 <br/>
@@ -32,17 +73,34 @@ Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
 
-**Disentangling Adaptive Gradient Methods from Learning Rates.**
+
+## Publications
+
+**Stability vs Implicit Bias of Gradient Methods on Separable Data and Beyond.**
 <br/>
-[Naman Agarwal](https://naman33k.github.io),
-[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
-[Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
-Tomer Koren,
-[Cyril Zhang](http://cyrilzhang.com/).
+Matan Schliserman,
+Tomer Koren.
 <br/>
-Preprint; preliminary version in [OPT2019](https://opt-ml.org/)
+[COLT 2022](http://learningtheory.org/colt2022/)
 <br/>
-[[arXiv](http://arxiv.org/abs/2002.11803)]
+[[arXiv](http://arxiv.org/abs/2202.13441)]
+
+**Efficient Online Linear Control with Stochastic Convex Costs and Unknown Dynamics.**
+<br/>
+Asaf Cassel,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren.
+<br/>
+[COLT 2022](http://learningtheory.org/colt2022/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2203.01170)]
+
+**Uniform Stability for First-Order Empirical Risk Minimization.**
+<br/>
+Amit Attia,
+Tomer Koren.
+<br/>
+[COLT 2022](http://learningtheory.org/colt2022/)
 
 **Best-of-All-Worlds Bounds for Online Learning with Feedback Graphs.**
 <br/>
@@ -619,6 +677,18 @@ Shahar Segal
 [COLT 2020](http://www.learningtheory.org/colt2020/)
 <br/>
 [[pdf](http://proceedings.mlr.press/v125/koren20a/koren20a.pdf)]
+
+**Disentangling Adaptive Gradient Methods from Learning Rates.**
+<br/>
+[Naman Agarwal](https://naman33k.github.io),
+[Rohan Anil](https://scholar.google.com/citations?user=Mv71-IcAAAAJ),
+[Elad Hazan](http://www.cs.princeton.edu/~ehazan/),
+Tomer Koren,
+[Cyril Zhang](http://cyrilzhang.com/).
+<br/>
+Manuscript; appeared in [OPT2019](https://opt-ml.org/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2002.11803)]
 
 **Scalable Second-Order Optimization for Deep Learning.**
 <br/>
