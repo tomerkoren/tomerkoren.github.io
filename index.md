@@ -29,8 +29,6 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/), 
 Uri Sherman.
 <br/>
-Preprint
-<br/>
 [[arXiv](http://arxiv.org/abs/2202.13361)]
 
 **Rate-Optimal Online Convex Optimization in Adaptive Linear Control.**
@@ -38,8 +36,6 @@ Preprint
 Asaf Cassel,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
 Tomer Koren.
-<br/>
-Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2206.01426)]
 
@@ -49,8 +45,6 @@ Preprint
 [Vitaly Feldman](http://vtaly.net/),
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
-<br/>
-Preprint
 
 **Better Best of Both Worlds Bounds for Bandits with Switching Costs.**
 <br/>
@@ -59,8 +53,6 @@ Guy Azov
 Tomer Koren, 
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
-Preprint
-<br/>
 [[arXiv](http://arxiv.org/abs/2206.03098)]
 
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
@@ -68,8 +60,6 @@ Preprint
 Noga Bar,
 [Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
 Tomer Koren.
-<br/>
-Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
 
