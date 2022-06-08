@@ -33,7 +33,7 @@ Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2202.13361)]
 
-**Efficient Online Linear Control with Stochastic Convex Costs and Unknown Dynamics.**
+**Rate-Optimal Online Convex Optimization in Adaptive Linear Control.**
 <br/>
 Asaf Cassel,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
@@ -73,6 +73,8 @@ Preprint
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
 
+
+<br/>
 
 ## Publications
 
