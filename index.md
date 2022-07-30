@@ -22,6 +22,16 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
+**Regret Minimization and Convergence to Equilibria in General-sum Markov Games.**
+<br/>
+Liad Erez,
+[Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
+Uri Sherman,
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
+<br/>
+[[arXiv](http://arxiv.org/abs/2207.14211)]
+
 **Benign Underfitting of Stochastic Gradient Descent.**
 <br/>
 Tomer Koren, 
@@ -46,7 +56,7 @@ Tomer Koren.
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
 
-**Better Best of Both Worlds Bounds for Bandits with Switching Costs.**
+**Better Best-of-Both-Worlds Bounds for Bandits with Switching Costs.**
 <br/>
 Idan Amir, 
 Guy Azov
@@ -54,6 +64,14 @@ Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
 [[arXiv](http://arxiv.org/abs/2206.03098)]
+
+**Dueling Convex Optimization with General Preferences.**
+<br/>
+[Aadirupa Saha](https://aadirupa.github.io/),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[arXiv]
 
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
 <br/>
@@ -93,6 +111,8 @@ Amit Attia,
 Tomer Koren.
 <br/>
 [COLT 2022](http://learningtheory.org/colt2022/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2207.08257)]
 
 **Best-of-All-Worlds Bounds for Online Learning with Feedback Graphs.**
 <br/>
@@ -198,7 +218,7 @@ Tomer Koren.
 
 **Adversarial Dueling Bandits.**
 <br/>
-[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
+[Aadirupa Saha](https://aadirupa.github.io/),
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
@@ -208,7 +228,7 @@ Tomer Koren,
 
 **Dueling Convex Optimization.**
 <br/>
-[Aadirupa Saha](https://scholar.google.co.in/citations?user=7a49tQYAAAAJ),
+[Aadirupa Saha](https://aadirupa.github.io/),
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
@@ -216,7 +236,7 @@ Tomer Koren,
 
 **Stochastic Multi-Armed Bandits with Unrestricted Delay Distributions.**
 <br/>
-Tal Lancewicki, 
+[Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
 Shahar Segal, 
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
