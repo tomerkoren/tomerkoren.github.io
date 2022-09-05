@@ -26,7 +26,7 @@ My research interests are in machine learning and optimization.
 <br/>
 Liad Erez,
 [Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
-Uri Sherman,
+[Uri Sherman](https://urisherman.github.io/),
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/), 
 <br/>
@@ -37,7 +37,7 @@ Tomer Koren,
 Tomer Koren, 
 [Roi Livni](http://www.tau.ac.il/~rlivni/), 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/), 
-Uri Sherman.
+[Uri Sherman](https://urisherman.github.io/).
 <br/>
 [[arXiv](http://arxiv.org/abs/2202.13361)]
 
@@ -125,7 +125,7 @@ Tomer Koren.
 
 **Optimal Rates for Random Order Online Optimization.**
 <br/>
-Uri Sherman,
+[Uri Sherman](https://urisherman.github.io/),
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
@@ -178,7 +178,7 @@ Tomer Koren,
 
 **Lazy OCO: Online Convex Optimization on a Switching Budget.**
 <br/>
-Uri Sherman,
+[Uri Sherman](https://urisherman.github.io/),
 Tomer Koren.
 <br/>
 [COLT 2021](http://learningtheory.org/colt2021/)
