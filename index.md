@@ -32,38 +32,14 @@ Tomer Koren,
 <br/>
 [[arXiv](http://arxiv.org/abs/2207.14211)]
 
-**Benign Underfitting of Stochastic Gradient Descent.**
-<br/>
-Tomer Koren, 
-[Roi Livni](http://www.tau.ac.il/~rlivni/), 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
-[Uri Sherman](https://urisherman.github.io/).
-<br/>
-[[arXiv](http://arxiv.org/abs/2202.13361)]
-
-**Rate-Optimal Online Convex Optimization in Adaptive Linear Control.**
-<br/>
-Asaf Cassel,
-[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
-Tomer Koren.
-<br/>
-[[arXiv](http://arxiv.org/abs/2206.01426)]
-
 **Private Online Prediction from Experts: Separations and Faster Rates.**
 <br/>
 [Hilal Asi](http://web.stanford.edu/~asi/),
 [Vitaly Feldman](http://vtaly.net/),
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
-
-**Better Best-of-Both-Worlds Bounds for Bandits with Switching Costs.**
 <br/>
-Idan Amir, 
-Guy Azov
-Tomer Koren, 
-[Roi Livni](http://www.tau.ac.il/~rlivni/).
-<br/>
-[[arXiv](http://arxiv.org/abs/2206.03098)]
+[[arXiv](http://arxiv.org/abs/2210.13537)]
 
 **Dueling Convex Optimization with General Preferences.**
 <br/>
@@ -71,7 +47,7 @@ Tomer Koren,
 Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[arXiv]
+[[arXiv](http://arxiv.org/abs/2210.02562)]
 
 **Multiplicative Reweighting for Robust Neural Network Optimization.**
 <br/>
@@ -85,6 +61,38 @@ Tomer Koren.
 <br/>
 
 ## Publications
+
+**Benign Underfitting of Stochastic Gradient Descent.**
+<br/>
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/), 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
+[Uri Sherman](https://urisherman.github.io/).
+<br/>
+[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2202.13361)]
+
+**Rate-Optimal Online Convex Optimization in Adaptive Linear Control.**
+<br/>
+Asaf Cassel,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren.
+<br/>
+[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2206.01426)]
+
+**Better Best-of-Both-Worlds Bounds for Bandits with Switching Costs.**
+<br/>
+Idan Amir, 
+Guy Azov
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2206.03098)]
 
 **Stability vs Implicit Bias of Gradient Methods on Separable Data and Beyond.**
 <br/>
