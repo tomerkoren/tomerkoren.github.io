@@ -22,6 +22,20 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
+**Tight Risk Bounds for Gradient Descent on Separable Data.**
+<br/>
+Matan Schliserman,
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2303.01135)]
+
+**Better Algorithms for Online Reinforcement Learning with Linear Function Approximation.**
+<br/>
+[Uri Sherman](https://urisherman.github.io/),
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+
 **Dueling Convex Optimization with General Preferences.**
 <br/>
 [Aadirupa Saha](https://aadirupa.github.io/),
@@ -45,17 +59,19 @@ Tomer Koren.
 
 
 **Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation.**
+<br/>
 [Uri Sherman](https://urisherman.github.io/),
 Tomer Koren, 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/)
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [ICML 2023](http://icml.cc/Conferences/2023)
 <br/>
 [[arXiv](http://arxiv.org/abs/2301.13087)]
 
 **SGD with AdaGrad Stepsizes: Full Adaptivity with High Probability to Unknown Parameters, Unbounded Gradients and Affine Variance.**
+<br/>
 Amit Attia, 
-Tomer Koren
+Tomer Koren.
 <br/>
 [ICML 2023](http://icml.cc/Conferences/2023)
 <br/>
@@ -78,7 +94,7 @@ Liad Erez,
 [Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
 [Uri Sherman](https://urisherman.github.io/),
 Tomer Koren, 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [ICML 2023](http://icml.cc/Conferences/2023)
 <br/>
