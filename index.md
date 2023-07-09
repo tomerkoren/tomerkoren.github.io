@@ -22,25 +22,6 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
-**Regret Minimization and Convergence to Equilibria in General-sum Markov Games.**
-<br/>
-Liad Erez,
-[Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
-[Uri Sherman](https://urisherman.github.io/),
-Tomer Koren, 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
-<br/>
-[[arXiv](http://arxiv.org/abs/2207.14211)]
-
-**Private Online Prediction from Experts: Separations and Faster Rates.**
-<br/>
-[Hilal Asi](http://web.stanford.edu/~asi/),
-[Vitaly Feldman](http://vtaly.net/),
-Tomer Koren,
-[Kunal Talwar](http://kunaltalwar.org/).
-<br/>
-[[arXiv](http://arxiv.org/abs/2210.13537)]
-
 **Dueling Convex Optimization with General Preferences.**
 <br/>
 [Aadirupa Saha](https://aadirupa.github.io/),
@@ -62,6 +43,61 @@ Tomer Koren.
 
 ## Publications
 
+
+**Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation.**
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/)
+<br/>
+[ICML 2023](http://icml.cc/Conferences/2023)
+<br/>
+[[arXiv](http://arxiv.org/abs/2301.13087)]
+
+**SGD with AdaGrad Stepsizes: Full Adaptivity with High Probability to Unknown Parameters, Unbounded Gradients and Affine Variance.**
+Amit Attia, 
+Tomer Koren
+<br/>
+[ICML 2023](http://icml.cc/Conferences/2023)
+<br/>
+[[arXiv](http://arxiv.org/abs/2302.08783)]
+
+**Near-Optimal Algorithms for Private Online Optimization in the Realizable Regime.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[ICML 2023](http://icml.cc/Conferences/2023)
+<br/>
+[[arXiv](http://arxiv.org/abs/2302.14154)]
+
+**Regret Minimization and Convergence to Equilibria in General-sum Markov Games.**
+<br/>
+Liad Erez,
+[Tal Lancewicki](https://sites.google.com/view/lancewicki/), 
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/), 
+<br/>
+[ICML 2023](http://icml.cc/Conferences/2023)
+<br/>
+[[arXiv](http://arxiv.org/abs/2207.14211)]
+
+**Private Online Prediction from Experts: Separations and Faster Rates.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[COLT 2023](http://learningtheory.org/colt2023/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2210.13537)]
+
+
+
+
 **Benign Underfitting of Stochastic Gradient Descent.**
 <br/>
 Tomer Koren, 
@@ -69,7 +105,7 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/), 
 [Uri Sherman](https://urisherman.github.io/).
 <br/>
-[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+[NeurIPS 2022](http://neurips.cc/Conferences/2022/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2202.13361)]
 
@@ -79,7 +115,7 @@ Asaf Cassel,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
 Tomer Koren.
 <br/>
-[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+[NeurIPS 2022](http://neurips.cc/Conferences/2022/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2206.01426)]
 
@@ -90,7 +126,7 @@ Guy Azov
 Tomer Koren, 
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
-[NeurIPS 2022](http://neurips.cc/Conferences/2021/) (to appear)
+[NeurIPS 2022](http://neurips.cc/Conferences/2022/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2206.03098)]
 
