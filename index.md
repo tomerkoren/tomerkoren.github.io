@@ -107,7 +107,8 @@ Tomer Koren,
 Tomer Koren,
 [Kunal Talwar](http://kunaltalwar.org/).
 <br/>
-[COLT 2023](http://learningtheory.org/colt2023/)
+[COLT 2023](http://learningtheory.org/colt2023/);
+Oral presentation at [TPDP 2023](http://tpdp.journalprivacyconfidentiality.org/2023/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2210.13537)]
 
