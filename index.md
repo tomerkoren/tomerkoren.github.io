@@ -22,12 +22,24 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
-**Tight Risk Bounds for Gradient Descent on Separable Data.**
+**Locally Optimal Descent for Dynamic Stepsize Scheduling.**
 <br/>
-Matan Schliserman,
-Tomer Koren.
+[Gilad Yehudai](https://sites.google.com/view/gyehudai/home/), 
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+[Amit Daniely](http://www.cs.huji.ac.il/~amitd/),
+[Yoel Drori](http://scholar.google.com/citations?user=7pRQY3MAAAAJ), 
+Tomer Koren, 
+[Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
 <br/>
-[[arXiv](http://arxiv.org/abs/2303.01135)]
+[[arXiv](http://arxiv.org/abs/2311.13877)]
+
+**Rate-Optimal Policy Optimization for Linear Markov Decision Processes.**
+<br/>
+[Uri Sherman](https://urisherman.github.io/),
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+[[arXiv](http://arxiv.org/abs/2308.14642)]
 
 **Better Algorithms for Online Reinforcement Learning with Linear Function Approximation.**
 <br/>
@@ -52,11 +64,19 @@ Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
 
-
 <br/>
 
 ## Publications
 
+**Tight Risk Bounds for Gradient Descent on Separable Data.**
+<br/>
+Matan Schliserman,
+Tomer Koren.
+<br/>
+[NeurIPS 2023](http://neurips.cc/Conferences/2023/)
+(*Spotlight*)
+<br/>
+[[arXiv](http://arxiv.org/abs/2303.01135)]
 
 **Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation.**
 <br/>
@@ -70,7 +90,7 @@ Tomer Koren,
 
 **SGD with AdaGrad Stepsizes: Full Adaptivity with High Probability to Unknown Parameters, Unbounded Gradients and Affine Variance.**
 <br/>
-Amit Attia, 
+[Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
 <br/>
 [ICML 2023](http://icml.cc/Conferences/2023)
@@ -168,7 +188,7 @@ Tomer Koren.
 
 **Uniform Stability for First-Order Empirical Risk Minimization.**
 <br/>
-Amit Attia,
+[Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
 <br/>
 [COLT 2022](http://learningtheory.org/colt2022/)
@@ -220,7 +240,7 @@ Tomer Koren,
 
 **Algorithmic Instabilities of Accelerated Gradient Descent.**
 <br/>
-Amit Attia,
+[Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
 <br/>
 [NeurIPS 2021](http://neurips.cc/Conferences/2021/)
