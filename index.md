@@ -39,14 +39,8 @@ Tomer Koren,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
-[[arXiv](http://arxiv.org/abs/2308.14642)]
-
-**Better Algorithms for Online Reinforcement Learning with Linear Function Approximation.**
 <br/>
-[Uri Sherman](https://urisherman.github.io/),
-[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
-Tomer Koren, 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+[[arXiv](http://arxiv.org/abs/2308.14642)]
 
 **Dueling Convex Optimization with General Preferences.**
 <br/>
