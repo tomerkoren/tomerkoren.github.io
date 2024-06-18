@@ -6,21 +6,35 @@ mathjax: true
 
 ## About
 
-I'm an Assistant Professor (aka Senior Lecturer) in the [Blavatnik School of
+I'm an Associate Professor in the [Blavatnik School of
 Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv
-University](http://www.tau.ac.il/) since Fall 2019. Previously, I was a Senior
-Research Scientist at [Google Brain, Mountain
-View](http://ai.google/research/teams/brain/). I received my PhD in 2017 
-from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/),
- where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
+University](http://www.tau.ac.il/) and a Senior Research Scientist at 
+[Google Research](https://research.google/), Tel Aviv. 
+I received my PhD from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
 
 My research interests are in machine learning and optimization.
-
 
 <br/>
 
 
 ## Preprints
+
+**The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization.**
+<br/>
+Matan Schliserman,
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2401.12058)]
+
+**Private Online Learning via Lazy Algorithms.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
+Tomer Koren,
+[Daogao Liu](https://daogaoliu.github.io/),
+[Kunal Talwar](http://kunaltalwar.org/).
+<br/>
+[[arXiv](https://arxiv.org/abs/2406.03620)]
 
 **Locally Optimal Descent for Dynamic Stepsize Scheduling.**
 <br/>
@@ -32,15 +46,6 @@ Tomer Koren,
 [Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
 <br/>
 [[arXiv](http://arxiv.org/abs/2311.13877)]
-
-**Rate-Optimal Policy Optimization for Linear Markov Decision Processes.**
-<br/>
-[Uri Sherman](https://urisherman.github.io/),
-[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
-Tomer Koren, 
-[Yishay Mansour](http://www.tau.ac.il/~mansour/).
-<br/>
-[[arXiv](http://arxiv.org/abs/2308.14642)]
 
 **Dueling Convex Optimization with General Preferences.**
 <br/>
@@ -61,6 +66,53 @@ Tomer Koren.
 <br/>
 
 ## Publications
+
+**Rate-Optimal Policy Optimization for Linear Markov Decision Processes.**
+<br/>
+[Uri Sherman](https://urisherman.github.io/),
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2024](http://icml.cc/Conferences/2024)
+(*Oral*)
+<br/>
+[[arXiv](http://arxiv.org/abs/2308.14642)]
+
+**How Free is Parameter-Free Stochastic Optimization?**
+<br/>
+[Amit Attia](https://amitattia.github.io/), 
+Tomer Koren.
+<br/>
+[ICML 2024](http://icml.cc/Conferences/2024)
+(*Spotlight*)
+<br/>
+[[arXiv](http://arxiv.org/abs/2402.03126)]
+
+**The Real Price of Bandit Information in Multiclass Classification.**
+<br/>
+Liad Erez,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/),
+[Shay Moran](https://shaymrn.cs.technion.ac.il/),
+<br/>
+[COLT 2024](http://learningtheory.org/colt2024/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2405.10027)]
+
+**Faster Convergence with Multiway Preferences.**
+<br/>
+[Aadirupa Saha](https://aadirupa.github.io/),
+[Vitaly Feldman](http://vtaly.net/),
+Tomer Koren,
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[AISTATS 2024](https://aistats.org/aistats2024/)
+<br/>
+[[arXiv](https://arxiv.org/abs/2312.11788)]
+
+
 
 **Tight Risk Bounds for Gradient Descent on Separable Data.**
 <br/>
@@ -755,6 +807,13 @@ Tomer Koren,
 <br/>
 
 ## Technical Reports and Open Problems
+
+**A Note on High-Probability Analysis of Algorithms with Exponential, Sub-Gaussian, and General Light Tails.**
+<br/>
+[Amit Attia](https://amitattia.github.io/), 
+Tomer Koren.
+<br/>
+[[arXiv](https://arxiv.org/abs/2403.02873)]
 
 **Open Problem: Tight Convergence of SGD in Constant Dimension.**
 <br/>
