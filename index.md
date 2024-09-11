@@ -63,6 +63,13 @@ Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2102.12192)]
 
+**Unified High-Probability Analysis of Algorithms with Exponential, Sub-Gaussian, and General Light Tails.**
+<br/>
+[Amit Attia](https://amitattia.github.io/), 
+Tomer Koren.
+<br/>
+[[arXiv](https://arxiv.org/abs/2403.02873)]
+
 <br/>
 
 ## Publications
@@ -636,19 +643,6 @@ Tomer Koren,
 [[pdf](http://papers.nips.cc/paper/6034-fast-rates-for-exp-concave-empirical-risk-minimization.pdf)]
 
 
-**Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff.**
-<br/>
-[Ofer Dekel](http://research.microsoft.com/en-us/um/people/oferd/),
-[Ronen Eldan](http://www.wisdom.weizmann.ac.il/~ronene/),
-Tomer Koren.
-<br/>
-[NIPS 2015](http://nips.cc/Conferences/2015/)
-(*Spotlight*)
-<br/>
-[[pdf](http://papers.nips.cc/paper/5842-bandit-smooth-convex-optimization-improving-the-bias-variance-tradeoff.pdf)]
-<!-- [[full](./public/papers/bco58.pdf)] -->
-
-
 **Bandit Convex Optimization: $\sqrt{T}$ Regret in One Dimension.**
 <br/>
 [Sébastien Bubeck](https://www.microsoft.com/en-us/research/people/sebubeck/),
@@ -807,13 +801,6 @@ Tomer Koren,
 <br/>
 
 ## Technical Reports and Open Problems
-
-**A Note on High-Probability Analysis of Algorithms with Exponential, Sub-Gaussian, and General Light Tails.**
-<br/>
-[Amit Attia](https://amitattia.github.io/), 
-Tomer Koren.
-<br/>
-[[arXiv](https://arxiv.org/abs/2403.02873)]
 
 **Open Problem: Tight Convergence of SGD in Constant Dimension.**
 <br/>
