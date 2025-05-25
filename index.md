@@ -19,22 +19,114 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
-**The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization.**
+**Benefits of Learning Rate Annealing for Tuning-Robustness in Stochastic Optimization.**
 <br/>
-Matan Schliserman,
-[Uri Sherman](https://urisherman.github.io/),
+[Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
 <br/>
-[[arXiv](http://arxiv.org/abs/2401.12058)]
+[[arXiv](http://arxiv.org/abs/2503.09411)]
 
-**Private Online Learning via Lazy Algorithms.**
+**Bandit Multiclass List Classification.**
 <br/>
-[Hilal Asi](http://web.stanford.edu/~asi/),
+Liad Erez,
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2502.09257)]
+
+**From Continual Learning to SGD and Back: Better Rates for Continual Linear Models.**
+<br/>
+[Itay Evron](https://www.evron.me/), 
+[Ran Levinstein](https://scholar.google.com/citations?user=vZIYguUAAAAJ&hl=en), 
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+[Uri Sherman](https://urisherman.github.io/), 
+Tomer Koren, 
+[Daniel Soudry](https://soudry.github.io/), 
+[Nathan Srebro](http://ttic.uchicago.edu/~nati/).
+<br/>
+[[arXiv](http://arxiv.org/abs/2502.09257)]
+
+**Complexity of Vector-valued Prediction: From Linear Models to Stochastic Convex Optimization.**
+<br/>
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2412.04274)]
+
+**Multiplicative Reweighting for Robust Neural Network Optimization.**
+<br/>
+Noga Bar,
+[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12192)]
+
+**High-Probability Analysis of Learning Algorithms with Exponential, Sub-Gaussian, and General Light-Tailed Distributions.**
+<br/>
+[Amit Attia](https://amitattia.github.io/), 
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2403.02873)]
+
+<br/>
+
+## Publications
+
+**Rapid Overfitting of Multi-Pass SGD in Stochastic Convex Optimization.**
+<br/>
+Shira Vansover-Hager,
+Tomer Koren, 
+[Roi Livni](http://www.tau.ac.il/~rlivni/).
+<br/>
+[ICML 2025](http://icml.cc/Conferences/2025)
+(*Spotlight*, to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2505.08306)]
+
+**Convergence of Policy Mirror Descent Beyond Compatible Function Approximation.**
+<br/>
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[ICML 2025](http://icml.cc/Conferences/2025)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2502.11033)]
+
+**Faster Stochastic Optimization with Arbitrary Delays via Adaptive Asynchronous Mini-Batching.**
+<br/>
+[Amit Attia](http://amitattia.github.io/), 
+Tomer Koren.
+<br/>
+[ICML 2025](http://icml.cc/Conferences/2025)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2408.07503)]
+
+**Nearly Optimal Sample Complexity for Learning with Label Proportions.**
+<br/>
+[Robert Busa-Fekete](https://scholar.google.com/citations?user=UNtKl1MAAAAJ&hl=en), 
+[Travis Dick](https://travisbarrydick.github.io/), 
+[Claudio Gentile](https://research.google/people/106399/?&type=google), 
+[Haim Kaplan](http://www.cs.tau.ac.il/~haimk/),
+Tomer Koren, 
+[Uri Stemmer](https://www.uri.co.il/).
+<br/>
+[ICML 2025](http://icml.cc/Conferences/2025)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2505.05355)]
+
+**Dueling Convex Optimization with General Preferences.**
+<br/>
+[Aadirupa Saha](https://aadirupa.github.io/),
 Tomer Koren,
-[Daogao Liu](https://daogaoliu.github.io/),
-[Kunal Talwar](http://kunaltalwar.org/).
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
-[[arXiv](https://arxiv.org/abs/2406.03620)]
+[ICML 2025](http://icml.cc/Conferences/2025)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2210.02562)]
 
 **Locally Optimal Descent for Dynamic Stepsize Scheduling.**
 <br/>
@@ -45,34 +137,45 @@ Tomer Koren,
 Tomer Koren, 
 [Mariano Schain](http://scholar.google.com/citations?user=5uvVNWcAAAAJ).
 <br/>
+[AISTATS 2025](https://aistats.org/aistats2025/)
+<br/>
 [[arXiv](http://arxiv.org/abs/2311.13877)]
 
-**Dueling Convex Optimization with General Preferences.**
+**The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization.**
 <br/>
-[Aadirupa Saha](https://aadirupa.github.io/),
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren.
+<br/>
+[ALT 2025](https://algorithmiclearningtheory.org/alt2025/)
+(*Outstanding Paper Award*)
+<br/>
+[[arXiv](http://arxiv.org/abs/2401.12058)]
+
+
+
+**Fast Rates for Bandit PAC Multiclass Classification.**
+<br/>
+Liad Erez,
+[Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/),
+[Shay Moran](https://shaymrn.cs.technion.ac.il/),
+<br/>
+[NeurIPS 2024](http://neurips.cc/Conferences/2024/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2406.12406)]
+
+**Private Online Learning via Lazy Algorithms.**
+<br/>
+[Hilal Asi](http://web.stanford.edu/~asi/),
 Tomer Koren,
-[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+[Daogao Liu](https://daogaoliu.github.io/),
+[Kunal Talwar](http://kunaltalwar.org/).
 <br/>
-[[arXiv](http://arxiv.org/abs/2210.02562)]
-
-**Multiplicative Reweighting for Robust Neural Network Optimization.**
+[NeurIPS 2024](http://neurips.cc/Conferences/2024/)
 <br/>
-Noga Bar,
-[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
-Tomer Koren.
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.12192)]
-
-**Unified High-Probability Analysis of Algorithms with Exponential, Sub-Gaussian, and General Light Tails.**
-<br/>
-[Amit Attia](https://amitattia.github.io/), 
-Tomer Koren.
-<br/>
-[[arXiv](https://arxiv.org/abs/2403.02873)]
-
-<br/>
-
-## Publications
+[[arXiv](https://arxiv.org/abs/2406.03620)]
 
 **Rate-Optimal Policy Optimization for Linear Markov Decision Processes.**
 <br/>
@@ -123,7 +226,7 @@ Tomer Koren,
 
 **Tight Risk Bounds for Gradient Descent on Separable Data.**
 <br/>
-Matan Schliserman,
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
 Tomer Koren.
 <br/>
 [NeurIPS 2023](http://neurips.cc/Conferences/2023/)
@@ -222,7 +325,7 @@ Tomer Koren,
 
 **Stability vs Implicit Bias of Gradient Methods on Separable Data and Beyond.**
 <br/>
-Matan Schliserman,
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
 Tomer Koren.
 <br/>
 [COLT 2022](http://learningtheory.org/colt2022/)
