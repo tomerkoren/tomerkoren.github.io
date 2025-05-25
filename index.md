@@ -161,7 +161,7 @@ Liad Erez,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/),
-[Shay Moran](https://shaymrn.cs.technion.ac.il/),
+[Shay Moran](https://shaymrn.cs.technion.ac.il/).
 <br/>
 [NeurIPS 2024](http://neurips.cc/Conferences/2024/)
 <br/>
@@ -206,7 +206,7 @@ Liad Erez,
 [Alon Cohen](https://sites.google.com/site/aloncohentechnion/),
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/),
-[Shay Moran](https://shaymrn.cs.technion.ac.il/),
+[Shay Moran](https://shaymrn.cs.technion.ac.il/).
 <br/>
 [COLT 2024](http://learningtheory.org/colt2024/)
 <br/>
