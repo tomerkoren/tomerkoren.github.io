@@ -148,7 +148,8 @@ Tomer Koren,
 Tomer Koren.
 <br/>
 [ALT 2025](https://algorithmiclearningtheory.org/alt2025/)
-(*Outstanding Paper Award*)
+(*Outstanding Paper Award*);
+Oral presentation at [OPT2024](https://opt-ml.org/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2401.12058)]
 
