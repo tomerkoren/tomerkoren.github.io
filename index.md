@@ -19,19 +19,30 @@ My research interests are in machine learning and optimization.
 
 ## Preprints
 
+**Convergence and Sample Complexity of First-Order Methods for Agnostic Reinforcement Learning.**
+<br/>
+[Uri Sherman](https://urisherman.github.io/),
+Tomer Koren, 
+[Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+[[arXiv](http://arxiv.org/abs/2507.04406)]
+
+**Nearly Optimal Sample Complexity for Learning with Label Proportions.**
+<br/>
+Lorne Applebaum, 
+[Travis Dick](https://travisbarrydick.github.io/), 
+[Claudio Gentile](https://research.google/people/106399/?&type=google), 
+[Haim Kaplan](http://www.cs.tau.ac.il/~haimk/),
+Tomer Koren.
+<br/>
+[[arXiv](http://arxiv.org/abs/2509.15145)]
+
 **Benefits of Learning Rate Annealing for Tuning-Robustness in Stochastic Optimization.**
 <br/>
 [Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2503.09411)]
-
-**Bandit Multiclass List Classification.**
-<br/>
-Liad Erez,
-Tomer Koren.
-<br/>
-[[arXiv](http://arxiv.org/abs/2502.09257)]
 
 **From Continual Learning to SGD and Back: Better Rates for Continual Linear Models.**
 <br/>
@@ -52,15 +63,7 @@ Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2412.04274)]
 
-**Multiplicative Reweighting for Robust Neural Network Optimization.**
-<br/>
-Noga Bar,
-[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
-Tomer Koren.
-<br/>
-[[arXiv](http://arxiv.org/abs/2102.12192)]
-
-**High-Probability Analysis of Learning Algorithms with Exponential, Sub-Gaussian, and General Light-Tailed Distributions.**
+**A General Reduction for High-Probability Analysis with General Light-Tailed Distributions.**
 <br/>
 [Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
@@ -71,6 +74,54 @@ Tomer Koren.
 
 ## Publications
 
+**Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime.**
+<br/>
+[Amit Attia](https://amitattia.github.io/), 
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+[Uri Sherman](https://urisherman.github.io/), 
+Tomer Koren.
+<br/>
+[NeurIPS 2025](http://neurips.cc/Conferences/2025/)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2507.11274)]
+
+**Bandit Multiclass List Classification.**
+<br/>
+Liad Erez,
+Tomer Koren.
+<br/>
+[NeurIPS 2025](http://neurips.cc/Conferences/2025/)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2502.09257)]
+
+**Optimal Rates in Continual Linear Regression via Increasing Regularization.**
+<br/>
+[Ran Levinstein](https://scholar.google.com/citations?user=vZIYguUAAAAJ&hl=en), 
+[Amit Attia](https://amitattia.github.io/), 
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+[Uri Sherman](https://urisherman.github.io/), 
+Tomer Koren, 
+[Daniel Soudry](https://soudry.github.io/), 
+[Itay Evron](https://www.evron.me/).
+<br/>
+[NeurIPS 2025](http://neurips.cc/Conferences/2025/)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2506.06501)]
+
+**Multiplicative Reweighting for Robust Neural Network Optimization.**
+<br/>
+Noga Bar,
+[Raja Giryes](https://en-engineering.tau.ac.il/profile/raja),
+Tomer Koren.
+<br/>
+[SIAM Journal on Imaging Sciences](https://www.siam.org/publications/siam-journals/siam-journal-on-imaging-sciences/)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2102.12192)]
+
 **Rapid Overfitting of Multi-Pass SGD in Stochastic Convex Optimization.**
 <br/>
 Shira Vansover-Hager,
@@ -78,7 +129,7 @@ Tomer Koren,
 [Roi Livni](http://www.tau.ac.il/~rlivni/).
 <br/>
 [ICML 2025](http://icml.cc/Conferences/2025)
-(*Spotlight*, to appear)
+(*Spotlight*)
 <br/>
 [[arXiv](http://arxiv.org/abs/2505.08306)]
 
@@ -89,7 +140,6 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [ICML 2025](http://icml.cc/Conferences/2025)
-(to appear)
 <br/>
 [[arXiv](http://arxiv.org/abs/2502.11033)]
 
@@ -99,7 +149,6 @@ Tomer Koren,
 Tomer Koren.
 <br/>
 [ICML 2025](http://icml.cc/Conferences/2025)
-(to appear)
 <br/>
 [[arXiv](http://arxiv.org/abs/2408.07503)]
 
@@ -113,7 +162,6 @@ Tomer Koren,
 [Uri Stemmer](https://www.uri.co.il/).
 <br/>
 [ICML 2025](http://icml.cc/Conferences/2025)
-(to appear)
 <br/>
 [[arXiv](http://arxiv.org/abs/2505.05355)]
 
@@ -124,7 +172,6 @@ Tomer Koren,
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
 <br/>
 [ICML 2025](http://icml.cc/Conferences/2025)
-(to appear)
 <br/>
 [[arXiv](http://arxiv.org/abs/2210.02562)]
 
