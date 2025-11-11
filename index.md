@@ -86,7 +86,7 @@ Tomer Koren.
 <br/>
 [[arXiv](http://arxiv.org/abs/2507.11274)]
 
-**Bandit Multiclass List Classification.**
+**From Contextual Combinatorial Semi-Bandits to Bandit List Classification: Improved Sample Complexity with Sparse Rewards.**
 <br/>
 Liad Erez,
 Tomer Koren.
