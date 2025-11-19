@@ -6,24 +6,35 @@ mathjax: true
 
 ## About
 
-I'm an Associate Professor in the [Blavatnik School of
-Computer Science](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv
-University](http://www.tau.ac.il/) and a Senior Research Scientist at 
+I'm an Associate Professor in [The Blavatnik School of
+Computer Science and AI](http://en-exact-sciences.tau.ac.il/computer) at [Tel Aviv University](http://www.tau.ac.il/) and a Senior Research Scientist at 
 [Google Research](https://research.google/), Tel Aviv. 
-I received my PhD from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/), where my advisor was [Prof. Elad Hazan](http://www.cs.princeton.edu/~ehazan/).
+I received my PhD from the [Technion---Israel Institute of Technology](http://www.technion.ac.il/).
 
-My research interests are in machine learning and optimization.
+My research interests are in machine learning, optimization, and reinforcement learning.
 
 <br/>
 
 
 ## Preprints
 
+**Flat Minima and Generalization: Insights from Stochastic Convex Optimization.**
+<br/>
+[Matan Schliserman](https://scholar.google.com/citations?user=xDDkoFIAAAAJ&hl=en), 
+Shira Vansover-Hager,
+Tomer Koren.
+<br/>
+Oral presentation at [OPT 2025](https://opt-ml.org/)
+<br/>
+[[arXiv](http://arxiv.org/abs/2511.03548)]
+
 **Convergence and Sample Complexity of First-Order Methods for Agnostic Reinforcement Learning.**
 <br/>
 [Uri Sherman](https://urisherman.github.io/),
 Tomer Koren, 
 [Yishay Mansour](http://www.tau.ac.il/~mansour/).
+<br/>
+Preliminary version in [ARLET 2025](https://arlet-workshop.github.io/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2507.04406)]
 
@@ -41,6 +52,8 @@ Tomer Koren.
 <br/>
 [Amit Attia](https://amitattia.github.io/), 
 Tomer Koren.
+<br/>
+Preliminary version in [OPT 2025](https://opt-ml.org/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2503.09411)]
 
@@ -95,6 +108,16 @@ Tomer Koren.
 (to appear)
 <br/>
 [[arXiv](http://arxiv.org/abs/2502.09257)]
+
+**Multiclass Loss Geometry Matters for Generalization of Gradient Descent in Separable Classification.**
+<br/>
+Matan Schliserman,
+Tomer Koren.
+<br/>
+[NeurIPS 2025](http://neurips.cc/Conferences/2025/)
+(to appear)
+<br/>
+[[arXiv](http://arxiv.org/abs/2505.22359)]
 
 **Optimal Rates in Continual Linear Regression via Increasing Regularization.**
 <br/>
@@ -196,11 +219,9 @@ Tomer Koren.
 <br/>
 [ALT 2025](https://algorithmiclearningtheory.org/alt2025/)
 (*Outstanding Paper Award*);
-Oral presentation at [OPT2024](https://opt-ml.org/)
+Oral presentation at [OPT 2024](https://opt-ml.org/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2401.12058)]
-
-
 
 **Fast Rates for Bandit PAC Multiclass Classification.**
 <br/>
@@ -970,7 +991,7 @@ Shahar Segal
 Tomer Koren,
 [Cyril Zhang](http://cyrilzhang.com/).
 <br/>
-Manuscript; appeared in [OPT2019](https://opt-ml.org/)
+Manuscript; appeared in [OPT 2019](https://opt-ml.org/)
 <br/>
 [[arXiv](http://arxiv.org/abs/2002.11803)]
 
